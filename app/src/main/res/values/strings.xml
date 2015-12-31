@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ESP8266_RESTclient</string>
+
+    <string name="hello_world">ESP8266 mini REST Client</string>
+    <string name="loading">Ricerca ESP8266...</string>
+    <string name="txtupdated">Campo aggiornato</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
